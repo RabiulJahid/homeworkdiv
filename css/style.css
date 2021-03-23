@@ -1,0 +1,84 @@
+.maindiv {
+	width: 100%;
+	height: 900px;
+	border: 5px solid red;
+}
+div.head {
+    margin: 0;
+    width: 100%;
+    min-height: 50px;
+    background-color: orange;
+    text-align: center;
+    font-size: 35px;
+    padding: 3px;
+}
+
+    .box {
+    width: 33.3%;
+	float: left;
+	min-height: 100px;
+	text-align: center;
+    }
+ 	
+div.about {
+	background-color: forestgreen;
+	font-size: 25px;
+	color: red;	
+}
+div.contact {
+	background-color: brown;
+	font-size: 25px;
+	color: blue;	
+}
+
+div.address {
+	background-color: chocolate;
+	font-size: 25px;
+	color: hotpink;	
+}
+.container {
+	background-color: gray;
+	height: 450px;
+	
+}
+.box1 {
+	width: 25%;
+	float: left;
+	min-height: 350px;
+	text-align: center;
+	overflow: hidden;
+
+}
+.sidebar {
+	background-color: skyblue;
+	font-size: 25px;
+
+
+}
+.mainarea {
+	background-color: red;
+	font-size: 25px;
+	
+
+}
+.blog {
+	background-color: aqua;
+	font-size: 25px;
+	
+
+}
+.logo {
+	background-color: green;
+	font-size: 25px;
+	
+
+}
+.footer {
+	font-size: 30px;
+	text-align: center;
+	color: red;
+	min-height: 100px;
+	background-color: blue;
+	clear: both;
+
+}
